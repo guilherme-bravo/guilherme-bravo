@@ -1,5 +1,8 @@
 ### Hi there 👋
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=guilherme-bravo&hide=html&layout=compact&theme=default)](https://github.com/iuricode/)
+[![card](https://github-readme-stats.vercel.app/api?username=guilherme-gomestheme=default)](https://github.com/iuricode/)
+
+
+[![guilherme-gomes](https://github-readme-stats.vercel.app/api/top-langs/?username=guilherme-bravo&hide=html&layout=compact&theme=default)](https://github.com/iuricode/)
 
 <!--
 **guilherme-bravo/guilherme-bravo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
