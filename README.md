@@ -1,5 +1,5 @@
 
-### SEJA BEM-VINDO AO MEU GITHUB!! 👋
+### SEJA BEM-VINDO AO MEU GITHUB!! :earth_americas:
 
 ## Prazer! 👋 me chamo Guilherme Gomes Branco Bravo
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
