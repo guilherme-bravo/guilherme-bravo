@@ -32,3 +32,5 @@
 
 [![guilherme-gomes](https://github-readme-stats.vercel.app/api/top-langs/?username=guilherme-bravo&hide=html&layout=compact&theme=tokyonight)](https://github.com/iuricode/)
 
+
+  ![Snake animation](https://github.com/rafaballerini/guilherme-bravo/blob/output/github-contribution-grid-snake.svg)
