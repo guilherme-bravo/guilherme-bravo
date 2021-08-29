@@ -27,9 +27,6 @@
 <h3>Contatos:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/guilherme-bravo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://www.linkedin.com/in/guilherme-bravo/" alt="Linkedin" target="_blank">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
-</p> 
 <hr>
  <div>
   <a href="https://github.com/guilherme-bravo">
