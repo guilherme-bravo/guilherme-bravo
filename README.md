@@ -15,7 +15,7 @@
 
   ° 🚀 Me aprofundando em <strong>JavaScript.</strong>
 
-  ° 🎓 Cursando <strong>Programação Full-Stack</strong> no Instituto Proa.
+  ° 🎓 Estudando <strong>Programação Full-Stack</strong> no Instituto Proa.
 
 <p align="left">
   <a href="#" alt="Gmail">
