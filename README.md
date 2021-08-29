@@ -28,7 +28,7 @@
   
 </p>  
 
-[![card](https://github-readme-stats.vercel.app/api?username=guilherme-bravo&theme=tokyonight)](https://github.com/iuricode/)
+[![card](https://github-readme-stats.vercel.app/api?username=guilherme-bravo&theme=github_dark)](https://github.com/iuricode/)
 
-[![guilherme-gomes](https://github-readme-stats.vercel.app/api/top-langs/?username=guilherme-bravo&hide=html&layout=compact&theme=tokyonight)](https://github.com/iuricode/)
+[![guilherme-gomes](https://github-readme-stats.vercel.app/api/top-langs/?username=guilherme-bravo&hide=html&layout=compact&theme=github_dark)](https://github.com/iuricode/)
 
