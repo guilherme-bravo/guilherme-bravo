@@ -22,6 +22,8 @@
 <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
+<br>
+<br>
 
 <p align="left">
   <a href="#" alt="Gmail">
@@ -29,8 +31,8 @@
 
   <a href="https://www.linkedin.com/in/guilherme-bravo/" alt="Linkedin" target="_blank">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
-</p>  
-
+</p> 
+<hr>
  <div>
   <a href="https://github.com/guilherme-bravo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilherme-bravo&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
