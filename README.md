@@ -23,10 +23,13 @@
 
   <a href="https://www.linkedin.com/in/guilherme-bravo/" alt="Linkedin" target="_blank">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
-
- 
-  
 </p>  
+
+ <div>
+  <a href="https://github.com/guilherme-bravo">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilherme-bravo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilherme-bravo&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
 ![card](https://github-readme-stats.vercel.app/api?username=guilherme-bravo&theme=github_dark)
 
