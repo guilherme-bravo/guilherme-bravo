@@ -36,6 +36,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilherme-bravo&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilherme-bravo&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=guilherme-bravo)]
+
 
 
