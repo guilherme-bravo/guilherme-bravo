@@ -13,7 +13,7 @@
 
   ° 💼 Buscando oportunidades para inicio de carreira (<strong>Desenvolvedor Junior, Desenvolvedor Java Junior, Desenvolvedor Front-end Junior</strong>).
 
-  ° 🚀 Me aprofundando em <strong>JavaScript.</strong>
+  ° 🚀 Me aprofundando em <strong>Java.</strong>
 
   ° 🎓 Estudando <strong>Programação Full-Stack</strong> no Instituto Proa. 
 <h2>Linguagens e Tecnologias que estou estudando:</h2> 
