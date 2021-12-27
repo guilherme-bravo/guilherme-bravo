@@ -5,7 +5,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
- Aluno do segundo semestre do curso de Sistemas de Informação na faculdade Impacta de Tecnologia, e do Instituto Proa. Amante da tecnologia, e sempre em busca de novas oportunidades.
+ Aluno do terceiro semestre do curso de Sistemas de Informação na faculdade Impacta de Tecnologia, e do Instituto Proa. Amante da tecnologia, e sempre em busca de novas oportunidades.
 </p>
 
  
